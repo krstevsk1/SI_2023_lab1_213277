@@ -1,0 +1,118 @@
+master logs:
+
+commit 650da7a8fb774ba8858f5484c1634950064a010e (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:32:06 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 03e2eab24b64fae6e79c4965abdd7e1b02b73a35
+Merge: 1ef8236 104205c
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:38:11 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 104205c639e3a7d9132b8066a9850b0029ca3361 (origin/bug2, bug2)
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:31:06 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 1ef8236f2fbbfa43e823994f07a5d078cf29769c (origin/bug1, bug1)
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:29:49 2023 +0200
+
+    Fix wrong loop for reading
+
+commit f70431e8d9d858503630c6bd9fbe45b4fb7b8fcb
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:26:37 2023 +0200
+
+
+
+
+
+bug1 logs:
+
+commit 1ef8236f2fbbfa43e823994f07a5d078cf29769c (HEAD -> bug1, origin/bug1)
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:29:49 2023 +0200
+
+    Fix wrong loop for reading
+
+commit f70431e8d9d858503630c6bd9fbe45b4fb7b8fcb
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:26:37 2023 +0200
+
+    Add java class
+
+commit 0e40c77e7face3dd27a6f9d7e19d54d0aba31673
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:25:58 2023 +0200
+
+    Initial commit
+
+
+
+
+
+
+
+
+bug2 logs:
+
+commit 104205c639e3a7d9132b8066a9850b0029ca3361 (HEAD -> bug2, origin/bug2)
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:31:06 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit f70431e8d9d858503630c6bd9fbe45b4fb7b8fcb
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:26:37 2023 +0200
+
+    Add java class
+
+commit 0e40c77e7face3dd27a6f9d7e19d54d0aba31673
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:25:58 2023 +0200
+
+    Initial commit
+
+
+
+
+
+
+
+bug3 logs:
+
+commit 650da7a8fb774ba8858f5484c1634950064a010e (HEAD -> bug3, origin/master, origin/bug3, master)
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:32:06 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 03e2eab24b64fae6e79c4965abdd7e1b02b73a35
+Merge: 1ef8236 104205c
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:38:11 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 104205c639e3a7d9132b8066a9850b0029ca3361 (origin/bug2, bug2)
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:31:06 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 1ef8236f2fbbfa43e823994f07a5d078cf29769c (origin/bug1, bug1)
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:29:49 2023 +0200
+
+    Fix wrong loop for reading
+
+commit f70431e8d9d858503630c6bd9fbe45b4fb7b8fcb
+Author: David Krstevski <david.krstevski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:26:37 2023 +0200
